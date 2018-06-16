@@ -1,13 +1,16 @@
 {
   "name": "yarn-stackos",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Simple OS Info - Demo Module { Test Package published to npm while learning Yarn }",
   "main": "stackos.js",
   "repository": "https://github.com/IamManchanda/yarn-stackos.git",
   "bugs": "https://github.com/IamManchanda/yarn-stackos/issues",
   "author": "Harry Manchanda <harmanmanchanda182@gmail.com>",
   "license": "MIT",
-  "keywords": ["os", "demo"],
+  "keywords": [
+    "os",
+    "demo"
+  ],
   "devDependencies": {
     "eslint": "^4.19.1",
     "eslint-config-airbnb-base": "^12.1.0",
