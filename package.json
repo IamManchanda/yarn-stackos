@@ -5,7 +5,7 @@
   "main": "stackos.js",
   "repository": "https://github.com/IamManchanda/yarn-stackos.git",
   "bugs": "https://github.com/IamManchanda/yarn-stackos/issues",
-  "author": "Harry Manchanda @IamManchanda <harmanmanchanda182@gmail.com>",
+  "author": "Harry Manchanda <harmanmanchanda182@gmail.com>",
   "license": "MIT",
   "keywords": ["os", "demo"],
   "devDependencies": {
